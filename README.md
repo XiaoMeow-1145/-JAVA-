@@ -47,6 +47,11 @@ pywinauto
 pip install pywinauto
 ```
 
+pyqt5
+```bash
+pip install pyqt5
+```
+
 2.运行exe，py
 
 ## 使用说明
